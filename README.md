@@ -89,9 +89,9 @@ $.getJSON('data/people.json', function (json) {
 This is HTML section where result displayed.
 <pre>
 <code>
-```
-<div id="list"><div class="wrapper"></div></div>
-```
+
+    <div id="list"><div class="wrapper"></div></div>
+
 </code>
 </pre>
 
