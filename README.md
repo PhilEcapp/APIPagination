@@ -87,9 +87,11 @@ $.getJSON('data/people.json', function (json) {
 
 <h2 dir="auto">DISPLAY IN HTML</h2>
 This is HTML section where result displayed.
+<pre>
 <code>
 <div id="list"><div class="wrapper"></div></div>
 </code>
+</pre>
 
 <h2 dir="auto">INCLUDE LINKS/FILES</h2>
 Scripts, JS and CSS files
