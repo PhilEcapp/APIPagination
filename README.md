@@ -1,4 +1,4 @@
-<h2 dir="auto">API Pagination</h2>
+<h2 dir="auto">API Pagination JSON</h2>
 
 JSON:API allows four types of pagination links: prev , next , first , and last . It is RECOMMENDED that servers include first and last links when these are inexpensive to compute. However, servers MUST include a prev and a next link for each instance of paginated data in a response.
 
